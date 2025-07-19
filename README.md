@@ -1,2 +1,9 @@
-# uuiiugiu
-Generated from prompt: App Name (working title): StrataCraft Online Main Purpose Create a browser-based, real-time, mul...
+# Miner Realms
+
+This app was generated using GitHub Spark.
+
+## Getting Started
+
+1. Clone this repository
+2. Follow the setup instructions for your app type
+3. Start developing!
